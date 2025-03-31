@@ -7,3 +7,9 @@ enabled = true
 [[analyzers]]
 name = "python"
 enabled = true
+
+[[analyzers]]
+name = "php"
+enabled = true
+
+
